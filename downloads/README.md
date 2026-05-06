@@ -1,5 +1,7 @@
 # Downloaded list :
 
+- [ShadowShare-7.7.0](./ShadowShare-7.7.0)
+- [_star](./_star)
 - [shadowshare](./shadowshare)
 
 ---
