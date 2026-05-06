@@ -81,12 +81,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [ShadowShare-7.7.0](https://github.com/elexi74/downloader/tree/main/downloads/ShadowShare-7.7.0)
-
-2. [_star](https://github.com/elexi74/downloader/tree/main/downloads/_star)
-
-3. [shadowshare](https://github.com/elexi74/downloader/tree/main/downloads/shadowshare)
+1. [app-arm64-v8a-release](https://github.com/elexi74/downloader/tree/main/downloads/app-arm64-v8a-release)
 
 ---
