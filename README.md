@@ -87,12 +87,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [app-arm64-v8a-release](https://github.com/elexi74/downloader/tree/main/downloads/app-arm64-v8a-release)
-
-2. [app-arm64-v8a-release_kappa](https://github.com/elexi74/downloader/tree/main/downloads/app-arm64-v8a-release_kappa)
-
-3. [app-x86_64-release](https://github.com/elexi74/downloader/tree/main/downloads/app-x86_64-release)
+1. [JUQiue9P](https://github.com/elexi74/downloader/tree/main/downloads/JUQiue9P)
 
 ---
