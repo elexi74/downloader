@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [JUQiue9P](./JUQiue9P)
+- [JUQiue9P_beta](./JUQiue9P_beta)
 
 ---
 
