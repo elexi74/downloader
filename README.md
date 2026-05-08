@@ -95,10 +95,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [JUQiue9P](https://github.com/elexi74/downloader/tree/main/downloads/JUQiue9P)
-
-2. [JUQiue9P_beta](https://github.com/elexi74/downloader/tree/main/downloads/JUQiue9P_beta)
+1. [maxthon_7.2.3.2000_x64_win7](https://github.com/elexi74/downloader/tree/main/downloads/maxthon_7.2.3.2000_x64_win7)
 
 ---
