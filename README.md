@@ -97,8 +97,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [maxthon_7.2.3.2000_x64_win7](https://github.com/elexi74/downloader/tree/main/downloads/maxthon_7.2.3.2000_x64_win7)
+1. [NexusModsVortexSetup](https://github.com/elexi74/downloader/tree/main/downloads/NexusModsVortexSetup)
+
+2. [maxthon_7.2.3.2000_x64_win7](https://github.com/elexi74/downloader/tree/main/downloads/maxthon_7.2.3.2000_x64_win7)
 
 ---
