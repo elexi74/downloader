@@ -105,6 +105,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [FrostyModManager](https://github.com/elexi74/downloader/tree/main/downloads/FrostyModManager)
@@ -116,5 +118,7 @@ a
 4. [go1.26.3.windows-amd64](https://github.com/elexi74/downloader/tree/main/downloads/go1.26.3.windows-amd64)
 
 5. [maxthon_7.2.3.2000_x64_win7](https://github.com/elexi74/downloader/tree/main/downloads/maxthon_7.2.3.2000_x64_win7)
+
+6. [mhr-cfw-go-windows-amd64](https://github.com/elexi74/downloader/tree/main/downloads/mhr-cfw-go-windows-amd64)
 
 ---

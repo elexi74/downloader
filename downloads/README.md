@@ -5,6 +5,7 @@
 - [NexusModsVortexSetup](./NexusModsVortexSetup)
 - [go1.26.3.windows-amd64](./go1.26.3.windows-amd64)
 - [maxthon_7.2.3.2000_x64_win7](./maxthon_7.2.3.2000_x64_win7)
+- [mhr-cfw-go-windows-amd64](./mhr-cfw-go-windows-amd64)
 
 ---
 
