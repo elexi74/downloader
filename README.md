@@ -109,20 +109,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [FrostyModManager](https://github.com/elexi74/downloader/tree/main/downloads/FrostyModManager)
-
-2. [Git-2.54.0-64-bit](https://github.com/elexi74/downloader/tree/main/downloads/Git-2.54.0-64-bit)
-
-3. [LustInSuburbs-0.20-win](https://github.com/elexi74/downloader/tree/main/downloads/LustInSuburbs-0.20-win)
-
-4. [NexusModsVortexSetup](https://github.com/elexi74/downloader/tree/main/downloads/NexusModsVortexSetup)
-
-5. [go1.26.3.windows-amd64](https://github.com/elexi74/downloader/tree/main/downloads/go1.26.3.windows-amd64)
-
-6. [maxthon_7.2.3.2000_x64_win7](https://github.com/elexi74/downloader/tree/main/downloads/maxthon_7.2.3.2000_x64_win7)
-
-7. [mhr-cfw-go-windows-amd64](https://github.com/elexi74/downloader/tree/main/downloads/mhr-cfw-go-windows-amd64)
+1. [vu1ge6ubtmgv](https://github.com/elexi74/downloader/tree/main/downloads/vu1ge6ubtmgv)
 
 ---
